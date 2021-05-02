@@ -1,0 +1,7 @@
+print("Hello World!")
+print("hello world\nhello world\nhello world")
+print('print("what to print")')
+print("hello world " + "hello wolrd")
+print("hello" +" " + "juli")
+print("hello" , "juli")
+print("hello" + " juli")
