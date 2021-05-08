@@ -6,7 +6,7 @@ print("hello" +" " + "juli")
 print("hello" , "juli")
 print("hello" + " juli")
 #input function
-input("what is your name?\n")            #It take input
+input("what is your name?\n")            #It take input and input is always in charater type 
 print(input("what is your name?\n"))     #it print the input
 print("hello" + input("what is your name"))
 print(len(input("what is your name")))
